@@ -1,0 +1,187 @@
+Brand,Category,Bookings Budget,Bookings Forecast,Final Bookings Actual
+A2C,Dollars,1613.0,3450.0,1960.0
+A2C,MQLs,10.0,8.0,4.0
+A2C,Units,2.0,3.0,5.0
+APEX,Dollars,5824.0,3120.0,1560.0
+APEX,MQLs,317.0,226.0,144.0
+APEX,Units,64.0,48.0,24.0
+AccuPoint,Dollars,0.0,0.0,1900.0
+AccuPoint,MQLs,0.0,2.0,3.0
+AccuPoint,Units,0.0,0.0,2.0
+Accupoint PMS ,Dollars,13620.0,10000.0,7945.0
+Accupoint PMS ,MQLs,101.0,116.0,62.0
+Accupoint PMS ,Units,12.0,7.0,7.0
+Accupoint RCM,Dollars,3129.0,1500.0,2500.0
+Accupoint RCM,MQLs,0.0,0.0,0.0
+Accupoint RCM,Units,1.0,1.0,1.0
+Billcare,Dollars,4506.0,3200.0,295.0
+Billcare,MQLs,8.0,20.0,22.0
+Billcare,Units,2.0,2.0,1.0
+CX AC Catalyst,Dollars,980.0,0.0,0.0
+CX AC Catalyst,MQLs,0.0,0.0,0.0
+CX AC Catalyst,Units,1.0,0.0,0.0
+CX AC Pinnacle,Dollars,109.0,0.0,0.0
+CX AC Pinnacle,MQLs,0.0,0.0,0.0
+CX AC Pinnacle,Units,0.0,0.0,0.0
+CX CM Catalyst,Dollars,937.0,0.0,0.0
+CX CM Catalyst,MQLs,0.0,0.0,0.0
+CX CM Catalyst,Units,1.0,0.0,0.0
+CX CM Pinnacle,Dollars,104.0,0.0,0.0
+CX CM Pinnacle,MQLs,0.0,0.0,0.0
+CX CM Pinnacle,Units,0.0,0.0,0.0
+CX DF Pinnacle,Dollars,2535.0,0.0,0.0
+CX DF Pinnacle,MQLs,0.0,0.0,0.0
+CX DF Pinnacle,Units,6.0,0.0,0.0
+CX Fusion Payments,Dollars,329.0,0.0,0.0
+CX Fusion Payments,MQLs,0.0,0.0,0.0
+CX Fusion Payments,Units,8.0,0.0,0.0
+CX Theralink,Dollars,135.0,0.0,0.0
+CX Theralink,MQLs,0.0,0.0,0.0
+CX Theralink,Units,4.0,0.0,0.0
+CX WA Catalyst,Dollars,980.0,0.0,0.0
+CX WA Catalyst,MQLs,0.0,0.0,0.0
+CX WA Catalyst,Units,1.0,0.0,0.0
+CX WA Pinnacle,Dollars,109.0,0.0,0.0
+CX WA Pinnacle,MQLs,0.0,0.0,0.0
+CX WA Pinnacle,Units,0.0,0.0,0.0
+Code Metro PMS,Dollars,6760.0,7000.0,2094.0
+Code Metro PMS,MQLs,87.0,61.0,35.0
+Code Metro PMS,Units,5.0,5.0,3.0
+Code Metro RCM,Dollars,6038.0,14500.0,13700.0
+Code Metro RCM,MQLs,0.0,0.0,0.0
+Code Metro RCM,Units,2.0,2.0,2.0
+CodeMetro,Dollars,0.0,4000.0,2378.0
+CodeMetro,MQLs,0.0,1.0,2.0
+CodeMetro,Units,0.0,2.0,2.0
+DF Pinnacle Upsell,Dollars,3636.0,800.0,0.0
+DF Pinnacle Upsell,MQLs,0.0,0.0,0.0
+DF Pinnacle Upsell,Units,9.0,2.0,0.0
+DataFinch,Dollars,31476.0,24888.0,22692.0
+DataFinch,MQLs,173.0,138.0,258.0
+DataFinch,Units,43.0,34.0,31.0
+Fusion,Dollars,0.0,4958.0,5647.0
+Fusion,MQLs,1.0,5.0,40.0
+Fusion,Units,0.0,5.0,3.0
+Fusion Claims,Dollars,126.0,0.0,0.0
+Fusion Claims,MQLs,0.0,0.0,0.0
+Fusion Claims,Units,1.0,0.0,0.0
+Fusion PMS,Dollars,20774.0,14053.0,14053.0
+Fusion PMS,MQLs,213.0,182.0,121.0
+Fusion PMS,Units,34.0,23.0,23.0
+Fusion Payments,Dollars,734.0,861.0,360.0
+Fusion Payments,MQLs,0.0,0.0,0.0
+Fusion Payments,Units,18.0,19.0,9.0
+Fusion RCM,Dollars,1612.0,645.0,645.0
+Fusion RCM,MQLs,0.0,0.0,0.0
+Fusion RCM,Units,3.0,1.0,1.0
+KASA RCM,Dollars,7806.0,8208.0,13966.0
+KASA RCM,MQLs,109.0,92.0,71.0
+KASA RCM,Units,11.0,12.0,12.0
+Logik ,Dollars,3827.0,3000.0,2675.0
+Logik ,MQLs,9.0,7.0,0.0
+Logik ,Units,1.0,1.0,1.0
+MCP,Dollars,0.0,0.0,0.0
+MCP,MQLs,2.0,5.0,0.0
+MCP,Units,0.0,0.0,0.0
+MCP PMS,Dollars,3300.0,3036.0,2574.0
+MCP PMS,MQLs,639.0,350.0,281.0
+MCP PMS,Units,150.0,138.0,117.0
+MCP Payments,Dollars,351.0,378.0,522.0
+MCP Payments,MQLs,0.0,0.0,0.0
+MCP Payments,Units,20.0,21.0,29.0
+MCP RCM,Dollars,2928.0,2880.0,1920.0
+MCP RCM,MQLs,0.0,0.0,0.0
+MCP RCM,Units,6.0,6.0,4.0
+New AC Catalyst,Dollars,2406.0,1000.0,1225.0
+New AC Catalyst,MQLs,0.0,0.0,0.0
+New AC Catalyst,Units,3.0,2.0,1.0
+New AC Pinnacle,Dollars,267.0,0.0,0.0
+New AC Pinnacle,MQLs,0.0,0.0,0.0
+New AC Pinnacle,Units,1.0,0.0,0.0
+New CM Catalyst,Dollars,890.0,0.0,0.0
+New CM Catalyst,MQLs,0.0,0.0,0.0
+New CM Catalyst,Units,1.0,0.0,0.0
+New CM Pinnacle,Dollars,99.0,0.0,0.0
+New CM Pinnacle,MQLs,0.0,0.0,0.0
+New CM Pinnacle,Units,0.0,0.0,0.0
+New Theralink,Dollars,180.0,0.0,0.0
+New Theralink,MQLs,0.0,0.0,0.0
+New Theralink,Units,4.0,0.0,0.0
+PMS Cross Sell,Dollars,4284.0,0.0,0.0
+PMS Cross Sell,MQLs,0.0,0.0,0.0
+PMS Cross Sell,Units,2.15,0.0,0.0
+Procentive,Dollars,5813.599999999999,8885.0,18308.0
+Procentive,MQLs,12.0,20.0,25.0
+Procentive,Units,4.3,5.0,7.0
+RCM CX ABA,Dollars,0.0,0.0,0.0
+RCM CX ABA,MQLs,0.0,0.0,0.0
+RCM CX ABA,Units,0.0,0.0,0.0
+RCM CX Ent,Dollars,0.0,0.0,0.0
+RCM CX Ent,MQLs,0.0,0.0,0.0
+RCM CX Ent,Units,0.0,0.0,0.0
+RCM CX Psych,Dollars,0.0,0.0,0.0
+RCM CX Psych,MQLs,0.0,0.0,0.0
+RCM CX Psych,Units,0.0,0.0,0.0
+Sharenote,Dollars,0.0,0.0,0.0
+Sharenote,MQLs,0.0,5.0,4.0
+Sharenote,Units,0.0,1.0,0.0
+Sharenote PMS,Dollars,10816.0,7713.0,2305.0
+Sharenote PMS,MQLs,43.0,28.0,9.0
+Sharenote PMS,Units,13.0,15.0,4.0
+Sharenote RCM,Dollars,1913.0,6918.0,10668.0
+Sharenote RCM,MQLs,0.0,0.0,0.0
+Sharenote RCM,Units,1.0,0.0,7.0
+Sharenote Wiley,Dollars,900.0,0.0,0.0
+Sharenote Wiley,MQLs,0.0,0.0,0.0
+Sharenote Wiley,Units,3.0,0.0,0.0
+TBH Total Flash,Dollars,234145.6,232575.0,224186.0
+TBH Total Flash,MQLs,3523.0,3014.0,2377.0
+TBH Total Flash,Units,1081.45,773.0,707.0
+TE Amendments,Dollars,3623.0,0.0,0.0
+TE Amendments,MQLs,0.0,0.0,0.0
+TE Amendments,Units,18.0,0.0,0.0
+TE PMS,Dollars,8722.0,16000.0,11921.0
+TE PMS,MQLs,22.0,25.0,18.0
+TE PMS,Units,2.0,2.0,2.0
+TE RCM,Dollars,896.0,1100.0,0.0
+TE RCM,MQLs,0.0,0.0,0.0
+TE RCM,Units,0.0,1.0,0.0
+TN PMS,Dollars,32732.0,23912.0,23618.0
+TN PMS,MQLs,1547.0,1416.0,992.0
+TN PMS,Units,334.0,244.0,241.0
+TN Payments,Dollars,9539.0,4800.0,4640.0
+TN Payments,MQLs,0.0,0.0,0.0
+TN Payments,Units,237.0,120.0,116.0
+TN RCM,Dollars,5159.0,2580.0,4515.0
+TN RCM,MQLs,0.0,0.0,0.0
+TN RCM,Units,8.0,4.0,7.0
+TenEleven,Dollars,717.0,7000.0,3500.0
+TenEleven,MQLs,0.0,12.0,5.0
+TenEleven,Units,0.0,2.0,1.0
+Theralink,Dollars,1590.0,1590.0,1431.0
+Theralink,MQLs,133.0,184.0,164.0
+Theralink,Units,30.0,30.0,27.0
+Theranest,Dollars,1787.0,4900.0,5516.0
+Theranest,MQLs,2.0,5.0,32.0
+Theranest,Units,3.0,7.0,10.0
+WA CX Theralink,Dollars,45.0,0.0,0.0
+WA CX Theralink,MQLs,0.0,0.0,0.0
+WA CX Theralink,Units,1.0,0.0,0.0
+WA Catalyst,Dollars,1218.0,0.0,0.0
+WA Catalyst,MQLs,0.0,0.0,0.0
+WA Catalyst,Units,2.0,0.0,0.0
+WA PMS,Dollars,8682.0,1200.0,1175.0
+WA PMS,MQLs,95.0,104.0,82.0
+WA PMS,Units,6.0,3.0,2.0
+WA Pinnacle,Dollars,135.0,0.0,0.0
+WA Pinnacle,MQLs,0.0,0.0,0.0
+WA Pinnacle,Units,0.0,0.0,0.0
+WA RCM,Dollars,6548.0,30000.0,28500.0
+WA RCM,MQLs,0.0,0.0,0.0
+WA RCM,Units,2.0,3.0,4.0
+WA Theralink,Dollars,45.0,0.0,0.0
+WA Theralink,MQLs,0.0,0.0,0.0
+WA Theralink,Units,1.0,0.0,0.0
+WebABA,Dollars,816.0,4500.0,7478.0
+WebABA,MQLs,0.0,2.0,3.0
+WebABA,Units,0.0,2.0,1.0
