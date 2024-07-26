@@ -22,6 +22,7 @@ def clean_data(df, month):
     df.loc[df['Brand'] == 'MQLs*', 'Brand'] = 'MQLs'
 
     # Only keep relevant columns and rename them for consistency
+    # Select and rename columns based on the timeframe
     if month == 'Jan':
         df = df[['Brand', 'Jan Bookings Budget', 'Jan Bookings Forecast', 'Jan Final Bookings Actual']]
         df.columns = ['Brand', 'Bookings Budget', 'Bookings Forecast', 'Final Bookings Actual']
@@ -38,10 +39,13 @@ def clean_data(df, month):
     current_brand = None
     current_rows = {}
 
+    # Iterate over each row in the dataframe
     for _, row in df.iterrows():
         brand = row['Brand']
+        # If we encounter a new brand
         if brand not in ['MQLs', 'Units', 'Dollars']:
             if current_brand:
+                # Ensure all categories have been added for the previous brand
                 for category in ['MQLs', 'Units', 'Dollars']:
                     if category not in current_rows:
                         current_rows[category] = {
@@ -51,12 +55,16 @@ def clean_data(df, month):
                             'Bookings Forecast': 0,
                             'Final Bookings Actual': 0
                         }
+                # Add all the rows for the current brand to the cleaned dataframe
                 for row_to_add in current_rows.values():
                     cleaned_df = pd.concat([cleaned_df, pd.DataFrame([row_to_add])], ignore_index=True)
+            # Start processing the new brand
             current_brand = brand
             current_rows = {}
+        # Determine the category based on the brand name
         category = 'MQLs' if 'MQLs' in brand else ('Units' if 'Units' in brand else ('Dollars' if 'Dollars' in brand else None))
         if category:
+            # Add the row data to the current_rows dictionary for the determined category
             current_rows[category] = {
                 'Brand': current_brand,
                 'Category': category,
@@ -64,7 +72,7 @@ def clean_data(df, month):
                 'Bookings Forecast': row['Bookings Forecast'],
                 'Final Bookings Actual': row['Final Bookings Actual']
             }
-
+    # Ensure the last processed brand is added to the cleaned dataframe
     if current_brand:
         for category in ['MQLs', 'Units', 'Dollars']:
             if category not in current_rows:
